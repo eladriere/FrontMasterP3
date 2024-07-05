@@ -1,6 +1,6 @@
 export default class Api {
     constructor() {
-        this.baseUrl = "https://www.main-bvxea6i-zvfhmn7qyg7qu.fr-4.platformsh.site"
+        this.baseUrl = "http://localhost:3333"
     }
 
     myFetch = (url, init) => {
